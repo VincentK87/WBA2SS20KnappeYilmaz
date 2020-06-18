@@ -1,0 +1,7 @@
+{
+  "baseurl": "https://wbaaapp.herokuapp.com",
+  "newurl": "https://newsapi.org/v2/",
+  "newskey": "b7c25bcc8daf49d7b8203d0bdd43c563",
+  "stockurl": "https://finnhub.io/api/v1",
+  "stocktoken": "br1frjvrh5reisn52uj0"
+}

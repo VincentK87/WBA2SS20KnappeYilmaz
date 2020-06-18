@@ -1,0 +1,39 @@
+{
+ "user": [
+  {
+   "buch": [
+    {
+     "id": "te6tkhqt9",
+     "email": "123@aaa.de",
+     "pass": "1234"
+    }
+   ]
+  },
+  {
+   "mkki": [
+    {
+     "id": "xhpq6xvt1",
+     "email": "bbmn@bjkhö",
+     "pass": "1234",
+     "wei1": "on"
+    }
+   ]
+  },
+  {
+   "rr": [
+    {
+     "id": "tfd3j1s3f",
+     "watchlist_id": 0,
+     "email": "info@live.p",
+     "pass": "rr",
+     "wei1": "on",
+     "wei2": "on",
+     "wei3": "on",
+     "wei4": "on",
+     "pre1": "on",
+     "pre2": "on"
+    }
+   ]
+  }
+ ]
+}
