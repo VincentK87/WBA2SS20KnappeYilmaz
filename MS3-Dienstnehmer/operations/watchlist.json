@@ -1,0 +1,74 @@
+{
+ "watchlist": {
+  "w1": [
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/LHA.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/O2C.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   }
+  ],
+  "w2": [
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/LHA.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/LHA.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/O2C.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   },
+   {
+    "watching": "https://wbaaapp.herokuapp.com/shares/BAS.DE"
+   }
+  ],
+  "w3": [
+   {
+    "watching": "buxte"
+   },
+   {
+    "watching": "buxte2"
+   },
+   {
+    "watching": "buxte2"
+   }
+  ],
+  "w4": [],
+  "w5": [],
+  "w6": [],
+  "w7": [],
+  "w8": [],
+  "w9": [],
+  "w10": [],
+  "w11": [],
+  "w12": [],
+  "w13": [],
+  "w14": [],
+  "w15": [],
+  "w16": [],
+  "w17": [],
+  "w18": [],
+  "w19": [],
+  "w20": [],
+  "w21": [],
+  "w22": [],
+  "w23": [],
+  "w24": [],
+  "w25": []
+ }
+}

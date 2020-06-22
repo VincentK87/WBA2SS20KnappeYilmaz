@@ -1,0 +1,47 @@
+{
+ "user": [
+  {
+   "Nickname": "master",
+   "id": "ita3wzeu7",
+   "walist": "w1",
+   "email": "hallo@livemp.de",
+   "pass": "",
+   "wei3": "on",
+   "inter": "Automobiles"
+  },
+  {
+   "Nickname": "slave",
+   "id": "4npnblb6m",
+   "walist": "w2",
+   "email": "hallo@livemp.de",
+   "pass": "",
+   "wei3": "on",
+   "inter": "Automobiles"
+  },
+  {
+   "Nickname": "slave2",
+   "id": "6luop1yh5",
+   "walist": "w21",
+   "email": "hallo@livemp.de",
+   "pass": "",
+   "wei3": "on",
+   "inter": "Automobiles"
+  },
+  {
+   "Nickname": "fgk",
+   "id": "gtygl7qas",
+   "walist": "w23",
+   "email": "nuu@exom",
+   "pass": "",
+   "inter": "Real Estate"
+  },
+  {
+   "Nickname": "fgk1",
+   "id": "zx9ht7k2w",
+   "walist": "w25",
+   "email": "nuu@exom",
+   "pass": "",
+   "inter": "Real Estate"
+  }
+ ]
+}

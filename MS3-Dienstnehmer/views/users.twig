@@ -1,0 +1,54 @@
+{% extends 'layout.twig' %}
+{% block body %}
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="well well-sm">
+
+                    <fieldset>
+                            <legend class="text-center header">Anmelden </legend>
+
+    <form action="users/user" method=post >
+        <label class="" for="email">E-Mail </label> <input name="email" type="email"><br>
+        <input name="email" type="email">
+        <label for ="Nickname">Nickname</label><br>
+        <input name="nickname" type="text"><br>
+        <label for="Password">Passwort</label><br>
+        <input name="password" type="password"><br>
+        <p>Welche Börsenweisheiten treffen bei Ihnen zu</p>
+        <input name="wei1" type="checkbox"><label for="wei1">The trend is your friend </label>
+        <br>
+        <input name="wei2" type="checkbox"><label for="wei2">sell in May and Go Away, But remember to come back in September</label>
+        <br>
+        <input name="wei3" type="checkbox"><label for="wei3">Don’t try to catch a falling knife</label>
+        <br>
+        <input name="wei4" type="checkbox"><label for="wei4">Buy on bad news, sell on good news</label>
+        <br>
+        <input name="pre1" type="checkbox"><label for="pre1">safe player</label>
+        <br>
+        <input name="pre2" type="checkbox"><label for="pre2">gamer</label>
+        <br>
+        <p> Interresiert An </p>
+        <select name="inter"><optgroup label="Interests">
+                <option value="Real Estate">Real Estate</option>
+                <option value="Chemicals">Chemicals</option>
+                <option value="Automobiles">Automobiles</option>
+                <option value="Technology">Technology</option>
+                <option value="Real Estate">Metals & Mining</option>
+            </optgroup></select>
+        <input type="submit" value="Anmelden">
+        <br>
+        <br>
+        <br>
+    </form>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}
